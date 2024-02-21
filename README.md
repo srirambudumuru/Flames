@@ -5,7 +5,7 @@
  
  ```git clone https://github.com/srirambudumuru/Flames.git```
  ### Packages Installation
- To install streamlit run the following command :
+ To install [streamlit](https://docs.streamlit.io/) run the following command :
  ```pip install streamlit```
  ### Running Project
  To run the project enter the following command in your terminal :
